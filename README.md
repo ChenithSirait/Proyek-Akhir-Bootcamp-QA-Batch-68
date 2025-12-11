@@ -3,6 +3,7 @@
 Ini adalah proyek akhir bootcamp QA Batch 68 yang menggunakan **Cypress** untuk melakukan otomatisasi pengujian pada website demo OrangeHRM.
 
 🔗 Website yang diuji: [https://opensource-demo.orangehrmlive.com/](https://opensource-demo.orangehrmlive.com/)
+Link YouTube Hasil Pengujian https://youtu.be/i7KGTlPqDoc?si=UjyLCGGG7AYxwmgi
 
 ## 📌 Tujuan Proyek
 
